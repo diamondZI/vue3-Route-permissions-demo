@@ -37,4 +37,4 @@
   </script>
   <style scoped>
    </style>
-  
+  @/stores/data2

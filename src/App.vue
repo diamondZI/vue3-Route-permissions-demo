@@ -16,3 +16,4 @@ console.log(a.a);
 </script>
 <style scoped>
  </style>
+@/stores/data2

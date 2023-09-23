@@ -161,4 +161,4 @@ console.log(dataV());
     margin-right: 10px;
   }
    </style>
-  
+  @/stores/data2
